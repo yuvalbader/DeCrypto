@@ -1,0 +1,15 @@
+{
+  "host": "localhost",
+  "port": 3000,
+  "Db": {
+    "host": "localhost",
+    "user": "root",
+    "pass": "",
+    "port": 3306,
+    "database": "future_advisor"
+  },
+  "PortfolioServiceServer": {
+    "host": "localhost",
+    "port": 5000
+  }
+}

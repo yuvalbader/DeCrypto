@@ -1,0 +1,15 @@
+{
+  "host": "localhost",
+  "port": 3000,
+  "Db": {
+    "host": "localhost",
+    "user": "root",
+    "pass": "Newquickgod123",
+    "port": 3306,
+    "database":"future_advisor"
+  },
+  "PortfolioServiceServer": {
+    "host": "http://futureadvisor.eu-west-1.elasticbeanstalk.com/",
+    "port": 8000
+  }
+}

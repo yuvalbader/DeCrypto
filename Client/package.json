@@ -1,0 +1,43 @@
+{
+  "name": "decrypto",
+  "version": "1.0.0",
+  "description": "DeCrypto",
+  "main": "app.js",
+  "proxy": "http://localhost:3001/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeCrypto-Project/DeCrypto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeCrypto-Project/DeCrypto/issues"
+  },
+  "homepage": "https://github.com/DeCrypto-Project/DeCrypto#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1198.0",
+    "axios": "^0.27.2",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.20.0",
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "eslint": "^8.20.0",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "json2csv": "^5.0.7",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7",
+    "react": "^18.1.0",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0",
+    "redux": "^4.2.0"
+  }
+}
